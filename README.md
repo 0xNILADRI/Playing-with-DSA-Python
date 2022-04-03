@@ -25,7 +25,7 @@ Created by [Elshad Karimov](https://www.udemy.com/user/elshad-karimov/).
 
 ## Contents
 
-- [Recursion](https://github.com/afkniladri/Playing-with-DSA-Python)
+- [Recursion](https://github.com/afkniladri/Playing-with-DSA-Python/tree/main/01.Recursion)
 - [Arrays / Python Lists]()
 - [Array and Lists Interview Questions]()
 - [Dictionaries]()
