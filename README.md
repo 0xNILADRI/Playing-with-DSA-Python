@@ -45,7 +45,7 @@ Created by [Elshad Karimov](https://www.udemy.com/user/elshad-karimov/).
 - [Searching Algorithms]()
 - [Graph Algorithms]()
 - [Graph Traversal - BFS and DFS]()
-- [TOpological Sort Algorithms]()
+- [Topological Sort Algorithms]()
 - [Single Source Shortest Path]()
 - [Graph Algorithms - Dijsktra's Algorithm]()
 - [Graph Algorithms - Bellman Ford Algorithm]()
